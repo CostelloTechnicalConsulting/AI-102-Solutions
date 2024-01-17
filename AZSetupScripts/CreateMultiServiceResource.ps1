@@ -1,5 +1,5 @@
-$resourceGroupName = "rg-az204"
-$location = "ResourceGroup1"
+$resourceGroupName = "ResourceGroup1"
+$location = "eastus"
 # Unique name for azure AI Services of form "ai102svcyyyymmdd" where yyyymmdd is the date of creation
 #get-date -format "yyyyMMdd"
 $azureAIServicesName = "ai102svc$(get-date -format 'yyyyMMdd')"
