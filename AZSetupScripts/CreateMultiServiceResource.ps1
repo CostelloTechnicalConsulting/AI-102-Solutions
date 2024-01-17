@@ -15,3 +15,6 @@ az cognitiveservices account create --name $azureAIServicesName --resource-group
 $azureAIServicesKey = az cognitiveservices account keys list --name $azureAIServicesName --resource-group $resourceGroupName --query key1 -o tsv
 $azureAIServicesEndpoint = az cognitiveservices account show --name $azureAIServicesName --resource-group $resourceGroupName --query endpoint -o tsv
 
+# write out keys and endpoint to file notes.txt
+$notes = "Azure AI Services Key: " + $azureAIServicesKey + "`n" + "Azure AI Services Endpoint: " + $azureAIServicesEndpoint
+$notes | Out-File -FilePath notes.txt
