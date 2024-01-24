@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = train_detector
+build_property.ProjectDir = d:\GitHub\AI-102-Solutions\visionLabfiles\03-object-detection\C-Sharp\train-detector\
