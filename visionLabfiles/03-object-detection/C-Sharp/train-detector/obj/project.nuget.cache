@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A74tgknFxwTzWD3m7cCATUafZSC7t3zzEsVM/RhX/VZTL1/ZJP5kODRy66Cjr4aLesLCgKJWtLgrF9sMaP3Cqw==",
+  "dgSpecHash": "mIlX6i3ExaAHgkYd6ndksgXfprMvGgoz2KXRhKjg1lWODi7MH5o8aI665CuJAGuVdLT/PpgyswW0QRuh3ou5bA==",
   "success": true,
-  "projectFilePath": "d:\\GitHub\\AI-102-Solutions\\visionLabfiles\\03-object-detection\\C-Sharp\\train-detector\\train-detector.csproj",
+  "projectFilePath": "D:\\GitHub\\AI-102-Solutions\\visionLabfiles\\03-object-detection\\C-Sharp\\train-detector\\train-detector.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dan\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.9\\microsoft.extensions.configuration.3.1.9.nupkg.sha512",
     "C:\\Users\\dan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.9\\microsoft.extensions.configuration.abstractions.3.1.9.nupkg.sha512",

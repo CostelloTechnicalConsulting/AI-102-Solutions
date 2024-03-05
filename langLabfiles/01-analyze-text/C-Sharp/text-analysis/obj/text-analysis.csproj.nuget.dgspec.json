@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\GitHub\\AI-102-Solutions\\langLabfiles\\01-analyze-text\\C-Sharp\\text-analysis\\text-analysis.csproj": {}
+    "D:\\GitHub\\AI-102-Solutions\\langLabfiles\\01-analyze-text\\C-Sharp\\text-analysis\\text-analysis.csproj": {}
   },
   "projects": {
-    "d:\\GitHub\\AI-102-Solutions\\langLabfiles\\01-analyze-text\\C-Sharp\\text-analysis\\text-analysis.csproj": {
+    "D:\\GitHub\\AI-102-Solutions\\langLabfiles\\01-analyze-text\\C-Sharp\\text-analysis\\text-analysis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\GitHub\\AI-102-Solutions\\langLabfiles\\01-analyze-text\\C-Sharp\\text-analysis\\text-analysis.csproj",
+        "projectUniqueName": "D:\\GitHub\\AI-102-Solutions\\langLabfiles\\01-analyze-text\\C-Sharp\\text-analysis\\text-analysis.csproj",
         "projectName": "text-analysis",
-        "projectPath": "d:\\GitHub\\AI-102-Solutions\\langLabfiles\\01-analyze-text\\C-Sharp\\text-analysis\\text-analysis.csproj",
+        "projectPath": "D:\\GitHub\\AI-102-Solutions\\langLabfiles\\01-analyze-text\\C-Sharp\\text-analysis\\text-analysis.csproj",
         "packagesPath": "C:\\Users\\dan\\.nuget\\packages\\",
-        "outputPath": "d:\\GitHub\\AI-102-Solutions\\langLabfiles\\01-analyze-text\\C-Sharp\\text-analysis\\obj\\",
+        "outputPath": "D:\\GitHub\\AI-102-Solutions\\langLabfiles\\01-analyze-text\\C-Sharp\\text-analysis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dan\\AppData\\Roaming\\NuGet\\NuGet.Config",

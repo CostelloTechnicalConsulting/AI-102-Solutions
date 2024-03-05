@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MFICP4Y7BwNZgmK6Gmog4zqhUeyPpHbEB47htNHD02GgAoE8wWUVqHXZUGp4qrqG8wvC3184NTFYnF1bdCk7+A==",
+  "dgSpecHash": "p5BRoUtaJxvWBJs9NtaW+J9orDRVNlz8nCudzwMkguKB7Hi6xs5mnWvmCsEQ4ovCiSrGoMcptRe/WkYiNdM0pw==",
   "success": true,
-  "projectFilePath": "d:\\GitHub\\AI-102-Solutions\\langLabfiles\\03-language\\C-Sharp\\clock-client\\clock_client.csproj",
+  "projectFilePath": "D:\\GitHub\\AI-102-Solutions\\langLabfiles\\03-language\\C-Sharp\\clock-client\\clock_client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dan\\.nuget\\packages\\azure.ai.language.conversations\\1.0.0\\azure.ai.language.conversations.1.0.0.nupkg.sha512",
     "C:\\Users\\dan\\.nuget\\packages\\azure.core\\1.33.0\\azure.core.1.33.0.nupkg.sha512",

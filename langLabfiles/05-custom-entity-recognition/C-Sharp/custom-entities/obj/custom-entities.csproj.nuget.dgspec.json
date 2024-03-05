@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\GitHub\\AI-102-Solutions\\langLabfiles\\05-custom-entity-recognition\\C-Sharp\\custom-entities\\custom-entities.csproj": {}
+    "D:\\GitHub\\AI-102-Solutions\\langLabfiles\\05-custom-entity-recognition\\C-Sharp\\custom-entities\\custom-entities.csproj": {}
   },
   "projects": {
-    "d:\\GitHub\\AI-102-Solutions\\langLabfiles\\05-custom-entity-recognition\\C-Sharp\\custom-entities\\custom-entities.csproj": {
+    "D:\\GitHub\\AI-102-Solutions\\langLabfiles\\05-custom-entity-recognition\\C-Sharp\\custom-entities\\custom-entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\GitHub\\AI-102-Solutions\\langLabfiles\\05-custom-entity-recognition\\C-Sharp\\custom-entities\\custom-entities.csproj",
+        "projectUniqueName": "D:\\GitHub\\AI-102-Solutions\\langLabfiles\\05-custom-entity-recognition\\C-Sharp\\custom-entities\\custom-entities.csproj",
         "projectName": "custom-entities",
-        "projectPath": "d:\\GitHub\\AI-102-Solutions\\langLabfiles\\05-custom-entity-recognition\\C-Sharp\\custom-entities\\custom-entities.csproj",
+        "projectPath": "D:\\GitHub\\AI-102-Solutions\\langLabfiles\\05-custom-entity-recognition\\C-Sharp\\custom-entities\\custom-entities.csproj",
         "packagesPath": "C:\\Users\\dan\\.nuget\\packages\\",
-        "outputPath": "d:\\GitHub\\AI-102-Solutions\\langLabfiles\\05-custom-entity-recognition\\C-Sharp\\custom-entities\\obj\\",
+        "outputPath": "D:\\GitHub\\AI-102-Solutions\\langLabfiles\\05-custom-entity-recognition\\C-Sharp\\custom-entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dan\\AppData\\Roaming\\NuGet\\NuGet.Config",

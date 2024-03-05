@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = custom_entities
-build_property.ProjectDir = d:\GitHub\AI-102-Solutions\langLabfiles\05-custom-entity-recognition\C-Sharp\custom-entities\
+build_property.ProjectDir = D:\GitHub\AI-102-Solutions\langLabfiles\05-custom-entity-recognition\C-Sharp\custom-entities\

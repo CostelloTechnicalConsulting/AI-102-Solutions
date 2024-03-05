@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LQRmughxTV6VZzLIzFFEs1cKgkq7tCyGlyeps/uPjLlm5U4eU7W2TM7pUqI07xrZlCOz3h97NXNVOYV7vNl26w==",
+  "dgSpecHash": "94n0HkchIJ0vbXvDsenBwxmFPTONXZM5hBiZkgx2Iw/K0AcasLtU8kW6Yq0AASvOb39A5b5UNArh8jDi3RHRlg==",
   "success": true,
-  "projectFilePath": "d:\\GitHub\\AI-102-Solutions\\langLabfiles\\02-qna\\C-Sharp\\qna-app\\qna-app.csproj",
+  "projectFilePath": "D:\\GitHub\\AI-102-Solutions\\langLabfiles\\02-qna\\C-Sharp\\qna-app\\qna-app.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dan\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.3\\microsoft.extensions.configuration.3.1.3.nupkg.sha512",
     "C:\\Users\\dan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.3\\microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",

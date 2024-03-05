@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\GitHub\\AI-102-Solutions\\visionLabfiles\\05-ocr\\C-Sharp\\read-text\\read-text.csproj": {}
+    "D:\\GitHub\\AI-102-Solutions\\visionLabfiles\\05-ocr\\C-Sharp\\read-text\\read-text.csproj": {}
   },
   "projects": {
-    "d:\\GitHub\\AI-102-Solutions\\visionLabfiles\\05-ocr\\C-Sharp\\read-text\\read-text.csproj": {
+    "D:\\GitHub\\AI-102-Solutions\\visionLabfiles\\05-ocr\\C-Sharp\\read-text\\read-text.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\GitHub\\AI-102-Solutions\\visionLabfiles\\05-ocr\\C-Sharp\\read-text\\read-text.csproj",
+        "projectUniqueName": "D:\\GitHub\\AI-102-Solutions\\visionLabfiles\\05-ocr\\C-Sharp\\read-text\\read-text.csproj",
         "projectName": "read-text",
-        "projectPath": "d:\\GitHub\\AI-102-Solutions\\visionLabfiles\\05-ocr\\C-Sharp\\read-text\\read-text.csproj",
+        "projectPath": "D:\\GitHub\\AI-102-Solutions\\visionLabfiles\\05-ocr\\C-Sharp\\read-text\\read-text.csproj",
         "packagesPath": "C:\\Users\\dan\\.nuget\\packages\\",
-        "outputPath": "d:\\GitHub\\AI-102-Solutions\\visionLabfiles\\05-ocr\\C-Sharp\\read-text\\obj\\",
+        "outputPath": "D:\\GitHub\\AI-102-Solutions\\visionLabfiles\\05-ocr\\C-Sharp\\read-text\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dan\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\GitHub\\AI-102-Solutions\\visionLabfiles\\04-face\\C-Sharp\\computer-vision\\detect-people.csproj": {}
+    "D:\\GitHub\\AI-102-Solutions\\visionLabfiles\\04-face\\C-Sharp\\computer-vision\\detect-people.csproj": {}
   },
   "projects": {
-    "d:\\GitHub\\AI-102-Solutions\\visionLabfiles\\04-face\\C-Sharp\\computer-vision\\detect-people.csproj": {
+    "D:\\GitHub\\AI-102-Solutions\\visionLabfiles\\04-face\\C-Sharp\\computer-vision\\detect-people.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\GitHub\\AI-102-Solutions\\visionLabfiles\\04-face\\C-Sharp\\computer-vision\\detect-people.csproj",
+        "projectUniqueName": "D:\\GitHub\\AI-102-Solutions\\visionLabfiles\\04-face\\C-Sharp\\computer-vision\\detect-people.csproj",
         "projectName": "detect-people",
-        "projectPath": "d:\\GitHub\\AI-102-Solutions\\visionLabfiles\\04-face\\C-Sharp\\computer-vision\\detect-people.csproj",
+        "projectPath": "D:\\GitHub\\AI-102-Solutions\\visionLabfiles\\04-face\\C-Sharp\\computer-vision\\detect-people.csproj",
         "packagesPath": "C:\\Users\\dan\\.nuget\\packages\\",
-        "outputPath": "d:\\GitHub\\AI-102-Solutions\\visionLabfiles\\04-face\\C-Sharp\\computer-vision\\obj\\",
+        "outputPath": "D:\\GitHub\\AI-102-Solutions\\visionLabfiles\\04-face\\C-Sharp\\computer-vision\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dan\\AppData\\Roaming\\NuGet\\NuGet.Config",

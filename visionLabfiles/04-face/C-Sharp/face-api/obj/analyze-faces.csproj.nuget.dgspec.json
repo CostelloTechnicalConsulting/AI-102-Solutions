@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\GitHub\\AI-102-Solutions\\visionLabfiles\\04-face\\C-Sharp\\face-api\\analyze-faces.csproj": {}
+    "D:\\GitHub\\AI-102-Solutions\\visionLabfiles\\04-face\\C-Sharp\\face-api\\analyze-faces.csproj": {}
   },
   "projects": {
-    "d:\\GitHub\\AI-102-Solutions\\visionLabfiles\\04-face\\C-Sharp\\face-api\\analyze-faces.csproj": {
+    "D:\\GitHub\\AI-102-Solutions\\visionLabfiles\\04-face\\C-Sharp\\face-api\\analyze-faces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\GitHub\\AI-102-Solutions\\visionLabfiles\\04-face\\C-Sharp\\face-api\\analyze-faces.csproj",
+        "projectUniqueName": "D:\\GitHub\\AI-102-Solutions\\visionLabfiles\\04-face\\C-Sharp\\face-api\\analyze-faces.csproj",
         "projectName": "analyze-faces",
-        "projectPath": "d:\\GitHub\\AI-102-Solutions\\visionLabfiles\\04-face\\C-Sharp\\face-api\\analyze-faces.csproj",
+        "projectPath": "D:\\GitHub\\AI-102-Solutions\\visionLabfiles\\04-face\\C-Sharp\\face-api\\analyze-faces.csproj",
         "packagesPath": "C:\\Users\\dan\\.nuget\\packages\\",
-        "outputPath": "d:\\GitHub\\AI-102-Solutions\\visionLabfiles\\04-face\\C-Sharp\\face-api\\obj\\",
+        "outputPath": "D:\\GitHub\\AI-102-Solutions\\visionLabfiles\\04-face\\C-Sharp\\face-api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dan\\AppData\\Roaming\\NuGet\\NuGet.Config",

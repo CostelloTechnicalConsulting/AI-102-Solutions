@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\GitHub\\AI-102-Solutions\\langLabfiles\\02-qna\\C-Sharp\\qna-app\\qna-app.csproj": {}
+    "D:\\GitHub\\AI-102-Solutions\\langLabfiles\\02-qna\\C-Sharp\\qna-app\\qna-app.csproj": {}
   },
   "projects": {
-    "d:\\GitHub\\AI-102-Solutions\\langLabfiles\\02-qna\\C-Sharp\\qna-app\\qna-app.csproj": {
+    "D:\\GitHub\\AI-102-Solutions\\langLabfiles\\02-qna\\C-Sharp\\qna-app\\qna-app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\GitHub\\AI-102-Solutions\\langLabfiles\\02-qna\\C-Sharp\\qna-app\\qna-app.csproj",
+        "projectUniqueName": "D:\\GitHub\\AI-102-Solutions\\langLabfiles\\02-qna\\C-Sharp\\qna-app\\qna-app.csproj",
         "projectName": "qna-app",
-        "projectPath": "d:\\GitHub\\AI-102-Solutions\\langLabfiles\\02-qna\\C-Sharp\\qna-app\\qna-app.csproj",
+        "projectPath": "D:\\GitHub\\AI-102-Solutions\\langLabfiles\\02-qna\\C-Sharp\\qna-app\\qna-app.csproj",
         "packagesPath": "C:\\Users\\dan\\.nuget\\packages\\",
-        "outputPath": "d:\\GitHub\\AI-102-Solutions\\langLabfiles\\02-qna\\C-Sharp\\qna-app\\obj\\",
+        "outputPath": "D:\\GitHub\\AI-102-Solutions\\langLabfiles\\02-qna\\C-Sharp\\qna-app\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dan\\AppData\\Roaming\\NuGet\\NuGet.Config",

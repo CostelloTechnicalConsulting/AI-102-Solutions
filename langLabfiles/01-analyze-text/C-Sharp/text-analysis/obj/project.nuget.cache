@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ye2NJyZQzSpbUClND1nHQiGdNu56jfkC2lb4EgXoUVsS4RMLdKHN0+QJw4WkpAc9RpjXfzG8/BqgQpkMEbxZAg==",
+  "dgSpecHash": "RWeg1cU5Pq/r9dU0jA3BcPhavRGCFFmax00PR7df20xpwRCt6q0VEjqNDlivdeu5E6sXQJksLlU9osE/K+iUMg==",
   "success": true,
-  "projectFilePath": "d:\\GitHub\\AI-102-Solutions\\langLabfiles\\01-analyze-text\\C-Sharp\\text-analysis\\text-analysis.csproj",
+  "projectFilePath": "D:\\GitHub\\AI-102-Solutions\\langLabfiles\\01-analyze-text\\C-Sharp\\text-analysis\\text-analysis.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dan\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.3\\microsoft.extensions.configuration.3.1.3.nupkg.sha512",
     "C:\\Users\\dan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.3\\microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",

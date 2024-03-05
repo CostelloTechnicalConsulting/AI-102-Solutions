@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\GitHub\\AI-102-Solutions\\langLabfiles\\06b-translator-sdk\\C-Sharp\\translate-text\\translate_text.csproj": {}
+    "D:\\GitHub\\AI-102-Solutions\\langLabfiles\\06b-translator-sdk\\C-Sharp\\translate-text\\translate_text.csproj": {}
   },
   "projects": {
-    "d:\\GitHub\\AI-102-Solutions\\langLabfiles\\06b-translator-sdk\\C-Sharp\\translate-text\\translate_text.csproj": {
+    "D:\\GitHub\\AI-102-Solutions\\langLabfiles\\06b-translator-sdk\\C-Sharp\\translate-text\\translate_text.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\GitHub\\AI-102-Solutions\\langLabfiles\\06b-translator-sdk\\C-Sharp\\translate-text\\translate_text.csproj",
+        "projectUniqueName": "D:\\GitHub\\AI-102-Solutions\\langLabfiles\\06b-translator-sdk\\C-Sharp\\translate-text\\translate_text.csproj",
         "projectName": "translate_text",
-        "projectPath": "d:\\GitHub\\AI-102-Solutions\\langLabfiles\\06b-translator-sdk\\C-Sharp\\translate-text\\translate_text.csproj",
+        "projectPath": "D:\\GitHub\\AI-102-Solutions\\langLabfiles\\06b-translator-sdk\\C-Sharp\\translate-text\\translate_text.csproj",
         "packagesPath": "C:\\Users\\dan\\.nuget\\packages\\",
-        "outputPath": "d:\\GitHub\\AI-102-Solutions\\langLabfiles\\06b-translator-sdk\\C-Sharp\\translate-text\\obj\\",
+        "outputPath": "D:\\GitHub\\AI-102-Solutions\\langLabfiles\\06b-translator-sdk\\C-Sharp\\translate-text\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dan\\AppData\\Roaming\\NuGet\\NuGet.Config",

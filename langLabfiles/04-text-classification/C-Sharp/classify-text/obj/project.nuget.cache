@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TwVJUKy9XWO3ijR5QRwfH448MxjSw0r16/Ra00F5aHOvCbcJfAtlHLVZDTlnWcdgy8Ah4OkCg77a6hYadhc6Lw==",
+  "dgSpecHash": "Xnt7ifqQOJe3tFL8qzb4bAA4+o6rwkD79HrUDQboE+KljDBFG+yFnLkRqjAgn9jUrS3jCmkdCRyUkWepczO+pw==",
   "success": true,
-  "projectFilePath": "d:\\GitHub\\AI-102-Solutions\\langLabfiles\\04-text-classification\\C-Sharp\\classify-text\\classify-text.csproj",
+  "projectFilePath": "D:\\GitHub\\AI-102-Solutions\\langLabfiles\\04-text-classification\\C-Sharp\\classify-text\\classify-text.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dan\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.3\\microsoft.extensions.configuration.3.1.3.nupkg.sha512",
     "C:\\Users\\dan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.3\\microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qENHVHmGYC+QBgqsVHAJYQfDqVwNbwEEJwnvq3a19eAwwWPPJ3cBHGGbAzBN3uTCE/kmW8+rMlLfMiir2DQoqQ==",
+  "dgSpecHash": "RwcxJTW7xty8MGK6ve5lV39HmcIseufqoZ/g9o/Qg3jDJg4rhC8E0o+vaNoPnE2kL/7I/uFWq/CwlySIkPcCeQ==",
   "success": true,
-  "projectFilePath": "d:\\GitHub\\AI-102-Solutions\\visionLabfiles\\07-custom-vision-image-classification\\C-Sharp\\test-classifier\\test-classifier.csproj",
+  "projectFilePath": "D:\\GitHub\\AI-102-Solutions\\visionLabfiles\\07-custom-vision-image-classification\\C-Sharp\\test-classifier\\test-classifier.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dan\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.9\\microsoft.extensions.configuration.3.1.9.nupkg.sha512",
     "C:\\Users\\dan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.9\\microsoft.extensions.configuration.abstractions.3.1.9.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xSnQ2SeMIhrDaN7IBzckVySw0vHqUiTJLS48K4MjoVcuQaciz9Zem/hsTOBc715fio/aolAgF7x7aufq7sfVBQ==",
+  "dgSpecHash": "s7Qh76+YA7Jh5NYvRHelEWdNXP06fvEyoQmvBnoO8+AqoszgrZSBHgNMax4wD9q9dTWz2x2E2yePMZCxTgYcRg==",
   "success": true,
-  "projectFilePath": "d:\\GitHub\\AI-102-Solutions\\visionLabfiles\\03-object-detection\\C-Sharp\\test-detector\\test-detector.csproj",
+  "projectFilePath": "D:\\GitHub\\AI-102-Solutions\\visionLabfiles\\03-object-detection\\C-Sharp\\test-detector\\test-detector.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dan\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.9\\microsoft.extensions.configuration.3.1.9.nupkg.sha512",
     "C:\\Users\\dan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.9\\microsoft.extensions.configuration.abstractions.3.1.9.nupkg.sha512",

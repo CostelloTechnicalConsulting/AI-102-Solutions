@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\GitHub\\AI-102-Solutions\\langLabfiles\\08-speech-translation\\C-Sharp\\translator\\translator.csproj": {}
+    "D:\\GitHub\\AI-102-Solutions\\langLabfiles\\08-speech-translation\\C-Sharp\\translator\\translator.csproj": {}
   },
   "projects": {
-    "d:\\GitHub\\AI-102-Solutions\\langLabfiles\\08-speech-translation\\C-Sharp\\translator\\translator.csproj": {
+    "D:\\GitHub\\AI-102-Solutions\\langLabfiles\\08-speech-translation\\C-Sharp\\translator\\translator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\GitHub\\AI-102-Solutions\\langLabfiles\\08-speech-translation\\C-Sharp\\translator\\translator.csproj",
+        "projectUniqueName": "D:\\GitHub\\AI-102-Solutions\\langLabfiles\\08-speech-translation\\C-Sharp\\translator\\translator.csproj",
         "projectName": "translator",
-        "projectPath": "d:\\GitHub\\AI-102-Solutions\\langLabfiles\\08-speech-translation\\C-Sharp\\translator\\translator.csproj",
+        "projectPath": "D:\\GitHub\\AI-102-Solutions\\langLabfiles\\08-speech-translation\\C-Sharp\\translator\\translator.csproj",
         "packagesPath": "C:\\Users\\dan\\.nuget\\packages\\",
-        "outputPath": "d:\\GitHub\\AI-102-Solutions\\langLabfiles\\08-speech-translation\\C-Sharp\\translator\\obj\\",
+        "outputPath": "D:\\GitHub\\AI-102-Solutions\\langLabfiles\\08-speech-translation\\C-Sharp\\translator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dan\\AppData\\Roaming\\NuGet\\NuGet.Config",

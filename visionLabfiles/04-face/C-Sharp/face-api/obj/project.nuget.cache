@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "50ArXjemHDpKgyTu5Zxh94epSGixYHavLXa7Nxu+xtJQTIvlqvNM5LmvPL82YdQfURNveK5FrDAJdrhnaLLq2g==",
+  "dgSpecHash": "Ey6YK60hYID/oGfX7gYkjwwMU11M0IIcqvlVUo4nmCMdf8dNRFqCuvYCqXdlobQ1JipRjYwdzVlp88XnaMvVCQ==",
   "success": true,
-  "projectFilePath": "d:\\GitHub\\AI-102-Solutions\\visionLabfiles\\04-face\\C-Sharp\\face-api\\analyze-faces.csproj",
+  "projectFilePath": "D:\\GitHub\\AI-102-Solutions\\visionLabfiles\\04-face\\C-Sharp\\face-api\\analyze-faces.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dan\\.nuget\\packages\\microsoft.azure.cognitiveservices.vision.face\\2.8.0-preview.3\\microsoft.azure.cognitiveservices.vision.face.2.8.0-preview.3.nupkg.sha512",
     "C:\\Users\\dan\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

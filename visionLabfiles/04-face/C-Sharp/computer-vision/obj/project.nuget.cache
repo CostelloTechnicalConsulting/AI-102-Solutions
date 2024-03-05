@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DghV3Q2nob5PUXjDH/lywSXyEtDoPJ9Q+seZHmvnUEgwG5jP3tSF6rIsoLZrtZHYW+cKH867Ly2wk43GpTerwA==",
+  "dgSpecHash": "KhpHuWBxhDgHUp4FK617uLrImUgmw9cBx5VCCyzcv+WrK3DMZgNxg9DdfdpouYn39AGmtOD8f/gos+/yBiMkOg==",
   "success": true,
-  "projectFilePath": "d:\\GitHub\\AI-102-Solutions\\visionLabfiles\\04-face\\C-Sharp\\computer-vision\\detect-people.csproj",
+  "projectFilePath": "D:\\GitHub\\AI-102-Solutions\\visionLabfiles\\04-face\\C-Sharp\\computer-vision\\detect-people.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dan\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.3\\microsoft.extensions.configuration.3.1.3.nupkg.sha512",
     "C:\\Users\\dan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.3\\microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",

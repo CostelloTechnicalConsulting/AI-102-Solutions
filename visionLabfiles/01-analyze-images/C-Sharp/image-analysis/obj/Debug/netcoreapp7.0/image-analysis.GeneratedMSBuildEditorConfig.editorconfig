@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = image_analysis
-build_property.ProjectDir = d:\GitHub\AI-102-Solutions\visionLabfiles\01-analyze-images\C-Sharp\image-analysis\
+build_property.ProjectDir = D:\GitHub\AI-102-Solutions\visionLabfiles\01-analyze-images\C-Sharp\image-analysis\

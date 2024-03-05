@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\GitHub\\AI-102-Solutions\\visionLabfiles\\03-object-detection\\C-Sharp\\train-detector\\train-detector.csproj": {}
+    "D:\\GitHub\\AI-102-Solutions\\visionLabfiles\\03-object-detection\\C-Sharp\\train-detector\\train-detector.csproj": {}
   },
   "projects": {
-    "d:\\GitHub\\AI-102-Solutions\\visionLabfiles\\03-object-detection\\C-Sharp\\train-detector\\train-detector.csproj": {
+    "D:\\GitHub\\AI-102-Solutions\\visionLabfiles\\03-object-detection\\C-Sharp\\train-detector\\train-detector.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\GitHub\\AI-102-Solutions\\visionLabfiles\\03-object-detection\\C-Sharp\\train-detector\\train-detector.csproj",
+        "projectUniqueName": "D:\\GitHub\\AI-102-Solutions\\visionLabfiles\\03-object-detection\\C-Sharp\\train-detector\\train-detector.csproj",
         "projectName": "train-detector",
-        "projectPath": "d:\\GitHub\\AI-102-Solutions\\visionLabfiles\\03-object-detection\\C-Sharp\\train-detector\\train-detector.csproj",
+        "projectPath": "D:\\GitHub\\AI-102-Solutions\\visionLabfiles\\03-object-detection\\C-Sharp\\train-detector\\train-detector.csproj",
         "packagesPath": "C:\\Users\\dan\\.nuget\\packages\\",
-        "outputPath": "d:\\GitHub\\AI-102-Solutions\\visionLabfiles\\03-object-detection\\C-Sharp\\train-detector\\obj\\",
+        "outputPath": "D:\\GitHub\\AI-102-Solutions\\visionLabfiles\\03-object-detection\\C-Sharp\\train-detector\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dan\\AppData\\Roaming\\NuGet\\NuGet.Config",

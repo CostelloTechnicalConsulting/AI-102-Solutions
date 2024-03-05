@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = detect_faces
-build_property.ProjectDir = d:\GitHub\AI-102-Solutions\visionLabfiles\04-face\C-Sharp\computer-vision\
+build_property.ProjectDir = D:\GitHub\AI-102-Solutions\visionLabfiles\04-face\C-Sharp\computer-vision\

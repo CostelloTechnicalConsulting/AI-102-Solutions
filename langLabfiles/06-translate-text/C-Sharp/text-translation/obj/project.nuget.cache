@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OQJEqDEE1/v76gc0L+xAyPqN4v7UQ4OvFg71ScZfmVZGD3fELlBHrDBcx3vyzDCmupajSQ009E8drr6qII1vIQ==",
+  "dgSpecHash": "tXBjUlewHGyZtXkJO+GwQs2QhBmHI6oEP67V1bfKnbH7KeBDlRwqAe9+dzD9ugKQimkJj9yQu2TtKDrE1s/1KA==",
   "success": true,
-  "projectFilePath": "d:\\GitHub\\AI-102-Solutions\\langLabfiles\\06-translate-text\\C-Sharp\\text-translation\\translate_text.csproj",
+  "projectFilePath": "D:\\GitHub\\AI-102-Solutions\\langLabfiles\\06-translate-text\\C-Sharp\\text-translation\\translate_text.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dan\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.3\\microsoft.extensions.configuration.3.1.3.nupkg.sha512",
     "C:\\Users\\dan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.3\\microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",

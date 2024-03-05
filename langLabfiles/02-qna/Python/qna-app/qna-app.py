@@ -1,8 +1,14 @@
+# Implementation complete 2024-03-05
+
+# pip install azure-ai-textanalytics==5.3.0
+# pip install python-dotenv
+
 from dotenv import load_dotenv
 import os
 
 # Import namespaces
-
+from azure.core.credentials import AzureKeyCredential
+from azure.ai.textanalytics import TextAnalyticsClient
 
 def main():
     try:
