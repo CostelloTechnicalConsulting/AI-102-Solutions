@@ -1,3 +1,4 @@
+# Implementation complete 2024-03-01
 # pip install azure-ai-translation-text==1.0.0b1
 
 from dotenv import load_dotenv
